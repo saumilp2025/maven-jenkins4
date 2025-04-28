@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Saumil Chandrahash Pandya</h1>
+    <h1>Saumil  Pandya</h1>
     <h2>Enrolment no - 821000125604MSCIT</h2>
     <h3>subject -Internship cum Software Development Project </h3>
     <p>MScIT Project.</p>
